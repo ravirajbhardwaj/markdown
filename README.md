@@ -149,6 +149,12 @@ Task Lists
 - Include Examples: Show how to use your project with code snippets.
 - Update Regularly: Keep your markdown files up-to-date.
 
+## Author
+
+**Author Name** &nbsp; : &nbsp; Ravi Raj <br>
+**Author Twitter** &nbsp; &nbsp; &nbsp; : &nbsp; [Ravidootcom](https://x.com/Ravidootcom) <br>
+**GitHub URI** &nbsp; &nbsp; &nbsp; : &nbsp; [ravirajbhardwaj](https://github.com/ravirajbhardwaj)
+
 ## Contributing 🤝
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes. Make sure you add value.
